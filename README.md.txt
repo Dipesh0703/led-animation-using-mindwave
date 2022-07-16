@@ -1,0 +1,1 @@
+I made led metrix useing mindwave mobile with arduino uno and hc-05 and adafruite neopixel 10x10 matrix
